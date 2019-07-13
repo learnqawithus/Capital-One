@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="107205" started-at="2019-07-12T23:30:45Z" finished-at="2019-07-12T23:32:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="107205" started-at="2019-07-12T23:30:45Z" finished-at="2019-07-12T23:32:32Z">
+      <class name="capitalone.tests.commercialMenuTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="setup" is-config="true" duration-ms="8572" started-at="2019-07-12T18:30:45Z" finished-at="2019-07-12T18:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CBS()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="CBS" duration-ms="24764" started-at="2019-07-12T18:30:53Z" finished-at="2019-07-12T18:31:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CBS -->
+        <test-method status="PASS" signature="close()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="close" is-config="true" duration-ms="2244" started-at="2019-07-12T18:31:18Z" finished-at="2019-07-12T18:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="setup" is-config="true" duration-ms="5926" started-at="2019-07-12T18:31:20Z" finished-at="2019-07-12T18:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="IE()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="IE" duration-ms="25433" started-at="2019-07-12T18:31:26Z" finished-at="2019-07-12T18:31:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IE -->
+        <test-method status="PASS" signature="close()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="close" is-config="true" duration-ms="2211" started-at="2019-07-12T18:31:51Z" finished-at="2019-07-12T18:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="setup" is-config="true" duration-ms="6856" started-at="2019-07-12T18:31:54Z" finished-at="2019-07-12T18:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="IandR()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="IandR" duration-ms="28778" started-at="2019-07-12T18:32:01Z" finished-at="2019-07-12T18:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IandR -->
+        <test-method status="PASS" signature="close()[pri:0, instance:capitalone.tests.commercialMenuTest@ea4a92b]" name="close" is-config="true" duration-ms="2377" started-at="2019-07-12T18:32:29Z" finished-at="2019-07-12T18:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- capitalone.tests.commercialMenuTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
